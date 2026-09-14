@@ -12,7 +12,7 @@ fn Hello::hello() {
 fn main() {
     let a: Hello;
 
-    a.name = "TXX"
+    a.name = "TXX";
 
     a.hello();
 }
