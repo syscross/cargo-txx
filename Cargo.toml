@@ -1,6 +1,17 @@
+
 [package]
 name = "cargo-txx"
 version = "0.1.0"
 edition = "2024"
+default-run = "cargo-txx"
+
+[[bin]]
+name = "cargo-txx"
+path = "src/bin/_.rs"
+
+[lib]
+name = "lib"
+path = "src/lib/_.rs"
 
 [dependencies]
+
