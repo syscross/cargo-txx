@@ -14,4 +14,5 @@ name = "lib"
 path = "src/lib/_.rs"
 
 [dependencies]
-
+regex = "1"
+fancy-regex = "0.19"
