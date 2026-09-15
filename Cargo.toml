@@ -1,12 +1,12 @@
 
 [package]
-name = "cargo-txx"
+name = "txx"
 version = "0.1.0"
 edition = "2024"
 default-run = "cargo-txx"
 
 [[bin]]
-name = "cargo-txx"
+name = "txx"
 path = "src/bin/_.rs"
 
 [lib]

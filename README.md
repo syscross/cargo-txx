@@ -1,5 +1,5 @@
 
-# cargo-txx
+# TXX
 
 A small syntax layer on top of C++. It compiles `.txx` files by turning
 them into plain C++, then building that with clang++ or g++.
